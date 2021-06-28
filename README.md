@@ -5,4 +5,4 @@ Implementation of a simple logic circuit in VHDL.
 -Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition (Copyright (C) 2020 Intel Corporation. All rights reserved).
 
 ## Circuit Schematic
-
+![alt text](https://github.com/AlexandreLujan/SimpleLogicalCircuit/blob/main/SimpleLogicalCircuit.png?raw=true)
